@@ -83,6 +83,12 @@ $ trash
 /Users/dave/.Trash: trash is empty
 ```
 
+Also consider adding something like this to your `~/.bashrc`
+
+``` bash
+alias rm=trash
+```
+
 Exports
 -------
 
