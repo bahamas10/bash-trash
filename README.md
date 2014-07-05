@@ -58,7 +58,7 @@ $ trash
  24K    total
 ```
 
-And finally, if you `trash` a file with the same name as a file already in the `trash`, it is
+If you `trash` a file with the same name as a file already in the `trash`, it is
 given a unique name (similar to how a browser handles downloading multiple files of the same name).
 
 ```
@@ -83,7 +83,7 @@ $ trash
 /Users/dave/.Trash: trash is empty
 ```
 
-Also consider adding something like this to your `~/.bashrc`
+Also, consider adding something like this to your `~/.bashrc`
 
 ``` bash
 alias rm=trash
