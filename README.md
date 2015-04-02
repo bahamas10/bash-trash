@@ -1,4 +1,4 @@
-bash-cdstack
+bash-trash
 ============
 
 Instead of `rm`'ing files into the void, put them in your trash/recycle bin
